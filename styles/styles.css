@@ -282,17 +282,17 @@ nav button:last-child {
     padding: 15px;
 }
 .img1{
-    background-image: url("./imgs/history.jpg");
+    background-image: url("master/imgs/history.jpg");
     
 }
 .img2{
-    background-image: url("./imgs/poker_chips.jpg");
+    background-image: url("master/imgs/poker_chips.jpg");
 }
 .img3{
-    background-image: url("./imgs/cheats.jpg");
+    background-image: url("master/imgs/cheats.jpg");
 }
 .img4{
-    background-image: url("./imgs/slot.jpg");
+    background-image: url("master/imgs/slot.jpg");
 }
 
 .box{
